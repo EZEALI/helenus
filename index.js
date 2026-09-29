@@ -2,7 +2,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const nodemailer = require('nodemailer');
 
-const BOT_TOKEN = '8650261118:AAGRJN9mrzfML6u0MTZPYVBhjsjEawkm4YY';
+const BOT_TOKEN = '8675589040:AAGAzoD96C61PRu19cXwxt2wNw-efeSg6sc';
 const EMAIL_HOST = 'techspotoronto.com';
 const EMAIL_PORT = 465;
 const EMAIL_SECURE = true;
